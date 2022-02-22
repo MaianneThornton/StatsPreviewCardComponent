@@ -19,7 +19,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-🚧 THIS CHALLENGE IS CURRENTLY IN PROGRESS 🚧
+🚧 THIS CHALLENGE IS CURRENTLY IN PROGRESS 🚧 <br>
 Welcome to my third Frontend Mentor Challenge!
 
 ### The challenge
